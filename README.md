@@ -1,10 +1,6 @@
 # 🎯 JS Event Assignment
 
-This project is a small interactive web app built with **HTML**, **CSS**, and **JavaScript** to demonstrate various **DOM events**, form validation, and dynamic elements.
-
-## 🚀 Live Demo
-👉 [View it on GitHub Pages](https://your-username.github.io/js-event-assignment/) 
-
+This project is a small interactive web app built with **HTML**, **CSS**, and **JavaScript** to demonstrate various **DOM events**, form validation, and dynamic elements
 ## 📦 Features
 
 - 🎈 **Event Handling**
@@ -32,7 +28,6 @@ This project is a small interactive web app built with **HTML**, **CSS**, and **
    cd js-event-assignment
 Open index.html in your browser.
 
-Or just view the demo.
 
 📁 File Structure
 js-event-assignment/
